@@ -22,3 +22,4 @@ I'm interested in leveraging my technical skills to accompany my other passions 
 
 Feel free to follow along with my tech journey by checking out my Github and LinkedIn!
 Here is my LinkedIn: www.linkedin.com/in/marilyn-jin 
+You can also reach me at: marilynj468@gmail.com
