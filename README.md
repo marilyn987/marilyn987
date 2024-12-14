@@ -19,7 +19,7 @@ I'm interested in leveraging my technical skills to accompany my other passions 
 
 Tech Stack:
 * Programming Languages: Python, Java, JavaScript, HTML, CSS 
-* Libraries & Frameworks: scikit-learn, Pandas, NumPy, Matplotlib, React.js, Next.js, Tensorflow
+* Libraries & Frameworks: Django, React.js, Next.js, scikit-learn, Pandas, NumPy, Matplotlib, Tensorflow
 * Databases: SQL
 * Development Tools: Jupyter Notebooks, Google Colab
 * Version Control: Git, GitHub
