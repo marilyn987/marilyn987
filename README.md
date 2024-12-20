@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi I'm Marilyn! I'm a sophomore at Penn State University studying CS. 👩‍💻
-I'm passionate about creating captivating experiences through technology. My interests include ML/AI, UX/UI design, and human computer interaction. 💻
+I'm passionate about creating captivating experiences through technology. My interests include ML/AI, UX/UI design, human computer interaction, and web development. 💻
 I'm interested in leveraging my technical skills to accompany my other passions and make strides in fields such as education, music, or game development! 👾
 
 Tech Stack:
@@ -26,4 +26,4 @@ Tech Stack:
 
 Feel free to follow along with my tech journey by checking out my Github and LinkedIn!
 Here is my LinkedIn: www.linkedin.com/in/marilyn-jin 
-You can also reach me at: marilynj468@gmail.com
+You can also reach me at: marilynj468@gmail.com :)
