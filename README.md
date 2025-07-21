@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi I'm Marilyn! I'm a sophomore at Penn State University studying CS. 👩‍💻
+Hi I'm Marilyn! I'm a junior at Penn State University studying CS. 👩‍💻
 I'm passionate about creating captivating experiences through technology. My interests include ML/AI, UX/UI design, human computer interaction, and web development. 💻
 I'm interested in leveraging my technical skills to accompany my other passions and make strides in fields such as education, music, or game development! 👾
 
