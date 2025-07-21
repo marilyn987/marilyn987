@@ -18,10 +18,10 @@ I'm passionate about creating captivating experiences through technology. My int
 I'm interested in leveraging my technical skills to accompany my other passions and make strides in fields such as education, music, or game development! 👾
 
 Tech Stack 👾:
-* Programming Languages: Python, Java, JavaScript, HTML, CSS 
+* Programming Languages: Python, Java, C, JavaScript, HTML, CSS 
 * Libraries & Frameworks: Django, React.js, Next.js, scikit-learn, Pandas, NumPy, Matplotlib, Tensorflow
-* Databases: SQL
-* Development Tools: VSCode, Google Colab, NetBeans, Jupyter Notebooks
+* Databases: SQL, Google Cloud Firestore (GCP)
+* Development Tools: VSCode, IntelliJ, Google Colab, NetBeans, Jupyter Notebooks
 * Version Control: Git, GitHub
 
 Language Stack 🌐:
